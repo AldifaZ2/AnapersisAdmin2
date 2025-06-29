@@ -1,0 +1,19 @@
+{
+    "name": "ney-shi-ku/cleanlygo",
+    "description": "Anapersis S-2",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "NeyShiKu\\CleanlyGo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NeyShiKu",
+            "email": "souls1771@gmail.com"
+        }
+    ]
+}
